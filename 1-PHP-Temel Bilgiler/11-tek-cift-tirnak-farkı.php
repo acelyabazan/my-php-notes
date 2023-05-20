@@ -8,7 +8,6 @@
 </head>
 <body>
     <?php
-
         // " Çift tırnak ve ' tek tırnak arasındaki farklar:
         
         $Ad = "Açelya";
